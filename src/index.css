@@ -1,0 +1,57 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+} */
+
+#header {
+  margin: 20px;
+}
+
+#title {
+  border: 10px double rosybrown;
+  font-family: "Brush Script MT", cursive;
+  color: darkred;
+  padding: 10px;
+}
+
+#desc {
+  font-family: "Courier New", Courier, monospace;
+  font-size: large;
+  font-style:oblique;
+}
+
+#left{
+  padding:0
+}
+
+.img-fluid{
+  border-radius:10px;
+}
+
+#menuItem {
+  margin: 10px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#itemName {
+  font-weight: bold;
+  font-size:larger
+}
+
+#info {
+  margin-bottom: 2px
+}
+
+button {
+  border-radius: 10px !important;
+  background-color: cornsilk;
+}
